@@ -1,2 +1,2 @@
 # Quiz-Android-App
-An android quiz app
+A basic android quiz app. 
